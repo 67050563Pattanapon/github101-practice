@@ -21,7 +21,7 @@ Repo นี้ใช้สำหรับสอบปฏิบัติ GitHub 1
 
 | Name | Team | Role | Evidence File | Issue Link |
 |---|---|---|---|---|
-|พัฒนพนธ์ เฉลยพจน์ | Team 10 | Demo | [example evidence](docs/evidence/example-student.md) | - |
+|พัฒนพนธ์ เฉลยพจน์ | Team 10 | Demo | [example evidence]((https://github.com/parinya555/ai-posture-checker)) | - |
 
 ---
 
